@@ -1,2 +1,2 @@
-version=1.0.3
-url=https://github.com/CuddlngModz/cuddlware-updates/releases/download/v1.0.3/cuddlware.exe
+version=1.0.4
+url=https://github.com/CuddlngModz/cuddlware-updates/releases/download/v1.0.4/cuddlware.exe
